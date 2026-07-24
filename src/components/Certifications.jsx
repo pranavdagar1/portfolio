@@ -1,4 +1,4 @@
-import certifications from "../data/certifications";
+import certifications from "../data/Certifications";
 import CertificationCard from "./CertificationCard";
 
 function Certifications() {
